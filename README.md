@@ -1,2 +1,5 @@
 # Medba pool at 1337 MED (July 2024)
-result = "Student || Xpooler";
+if result == "Student" || result == "Xpooler"
+{
+  write(1, "ALHAMDOLILLAH", 13);
+}

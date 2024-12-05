@@ -3,6 +3,6 @@ if result == "Student" || result == "Xpooler"
 <br>
 {
 <br>
-  write(1, "ALHAMDOLILLAH", 13);
+&nbsp;&nbsp;write(1, "ALHAMDOLILLAH", 13);
 <br>
 }

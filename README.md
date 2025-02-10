@@ -1,6 +1,6 @@
 # Medba pool at 1337 MED (July 2024)
 
-## Level 5 - 60% / Rejected
+## Level 5 - 60% ==> Rejected
 
 ``` p = passed ```
 
@@ -22,7 +22,7 @@
 | C11 | !p |
 | C12 | !p |
 | C13 | !p |
-| Exam 00 | p 30/100 |
-| Exam 01 | p 30/100 |
-| Exam 02 | p 30/100 |
-| Exam 03 | !p 26/100|
+| Exam 00 | p => 30/100 |
+| Exam 01 | p => 30/100 |
+| Exam 02 | p => 30/100 |
+| Exam 03 | !p => 26/100|

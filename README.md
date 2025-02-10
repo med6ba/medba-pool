@@ -1,8 +1,6 @@
 # Medba pool at 1337 MED (July 2024)
 
-## Level 5 - 60% ==> Rejected
-
-``` p = passed ```
+## Level 5 - 60% ⇒ Rejected
 
 | Project | 💯 |
 |:-----|:-----|

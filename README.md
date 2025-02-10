@@ -1,6 +1,6 @@
 # Medba pool at 1337 MED (July 2024)
 
-## Level 5 - 60% ⇒ Rejected
+## Level 5 - 06% ⇒ Rejected
 <img src="https://drive.google.com/file/d/1AwP99ps-x406od6qTC2hF86_LhgS1Tmi/view?usp=sharing">
 
 | Project | 💯 |

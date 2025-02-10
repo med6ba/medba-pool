@@ -1,8 +1,15 @@
 # Medba pool at 1337 MED (July 2024)
-if result == "Student" || result == "Xpooler"
-<br>
-{
-<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;write(1, "ALHAMDOLILLAH", 13);
-<br>
-}
+Level 5 - 60% / Rejected
+I pass those projects:
+sh00
+sh01
+c00
+c01
+c02
+c03
+c04
+c05
+c06
+exam00
+exam01
+exam02

@@ -2,8 +2,6 @@
 
 ## Level 5 - 06% ⇒ Rejected
 <img src="https://drive.google.com/uc?export=view&id=1AwP99ps-x406od6qTC2hF86_LhgS1Tmi">
-![Pool-Info](https://drive.google.com/file/d/1AwP99ps-x406od6qTC2hF86_LhgS1Tmi/view?usp=sharing)
-![My Image](https://drive.google.com/uc?export=view&id=1AwP99ps-x406od6qTC2hF86_LhgS1Tmi)
 
 | Project | 💯 |
 |:-----|:-----|

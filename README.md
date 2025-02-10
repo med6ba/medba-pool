@@ -2,6 +2,8 @@
 
 ## Level 5 - 60% / Rejected
 
+``` p = passed ```
+
 | Project | p / !p |
 |----------|----------|
 | SH00 | p |
@@ -24,5 +26,3 @@
 | Exam 01 | p 30/100 |
 | Exam 02 | p 30/100 |
 | Exam 03 | !p 26/100|
-
-``` p = passed ```

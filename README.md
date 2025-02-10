@@ -1,27 +1,28 @@
 # Medba pool at 1337 MED (July 2024)
-Level 5 - 60% / Rejected
 
-| Project | 1 or 0 |
+---
+
+## Level 5 - 60% / Rejected
+
+| Project | p / !p |
 |----------|----------|
-| sh00   | Data 2   |
-| sh01   | Data 5   |
-| c00   | Data 8   |
-
-
-
-
-
-
-
-sh00
-sh01
-c00
-c01
-c02
-c03
-c04
-c05
-c06
-exam00
-exam01
-exam02
+| SH00 | passed |
+| SH01 | passed |
+| C00 | passed |
+| C01 | passed |
+| C02 | passed |
+| C03 | passed |
+| C04 | passed |
+| C05 | passed |
+| C06 | passed |
+| C07 | !passed |
+| C08 | !passed |
+| C09 | !passed |
+| C10 | !passed |
+| C11 | !passed |
+| C12 | !passed |
+| C13 | !passed |
+| Exam 00 | passed |
+| Exam 01 | passed |
+| Exam 02 | passed |
+| Exam 03 | !passed |

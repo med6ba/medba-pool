@@ -22,7 +22,7 @@
 | C11 | !passed |
 | C12 | !passed |
 | C13 | !passed |
-| Exam 00 | passed |
-| Exam 01 | passed |
-| Exam 02 | passed |
-| Exam 03 | !passed |
+| Exam 00 | passed with 30/100 |
+| Exam 01 | passed with 30/100 |
+| Exam 02 | passed with 30/100 |
+| Exam 03 | !passed with 26/100|
